@@ -28,7 +28,7 @@ public class Main {
 		    		System.out.println(x);
 		    }
 		}
-		System.out.println(contentList.size()+" files.");
+//		System.out.println(contentList.size()+" files.");
 		
 //		for(String a : contentList){
 //			for(String b : contentList){
